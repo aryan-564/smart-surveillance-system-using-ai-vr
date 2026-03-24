@@ -132,19 +132,19 @@ Because this system uses microservices, you need to run the Backend, Python Engi
 ## 📸 Screenshots
 
 ### 🔐 Login Page
-![Login](assets/login_page.png)
+![Login](ai-engine/assets/login_page.png)
 
 ### 📊 Dashboard
-![Dashboard](assets/main_dash.png)
+![Dashboard](ai-engine/assets/main_dash.png)
 
 ### 🎥 Camera Start
-![Start Camera](assets/start_cam.png)
+![Start Camera](ai-engine/assets/start_cam.png)
 
 ### 🛑 Camera Stop
-![Stop Camera](assets/stop_cam.png)
+![Stop Camera](ai-engine/assets/stop_cam.png)
 
 ### 🧠 Detection / Monitoring
-![Detection](assets/analytics.png)
+![Detection](ai-engine/assets/analytics.png)
 
 ### 🥽 VR Mode
-![VR Mode](assets/vr_mode.png)
+![VR Mode](ai-engine/assets/vr_mode.png)
