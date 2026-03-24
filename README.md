@@ -2,6 +2,21 @@
 
 A comprehensive, full-stack smart surveillance application featuring real-time object detection, duration tracking, immersive VR monitoring, and local screen recording.
 
+## 🎯 Problem Statement
+Traditional surveillance systems require continuous human monitoring. This project automates detection using AI to improve efficiency and security.
+
+## 🚀 Future Scope
+- Face recognition integration
+- Cloud deployment
+- Mobile notifications
+- Real-time alerts via SMS/Email
+
+## 👨‍💻 Team
+Aryan Indalkar
+Kartik Choudhari
+Sonali Gaikwad
+Bhumika Alhat
+
 ## 🧱 Technology Stack
 
 ### Frontend
