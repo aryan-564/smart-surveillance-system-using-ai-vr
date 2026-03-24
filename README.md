@@ -128,3 +128,23 @@ Because this system uses microservices, you need to run the Backend, Python Engi
    Navigate to the **VR Mode** tab and click Enter. A-frame wraps your media stream onto a 360-degree virtual construct with spatial overlay warnings when crowd detection triggers.
 4. **Analytics:**
    For `Admin` role accounts, the Analytics tab renders productivity line graphs using Chart.js based on the simulated collected data logs.
+
+## 📸 Screenshots
+
+### 🔐 Login Page
+![Login](assets/login_page.png)
+
+### 📊 Dashboard
+![Dashboard](assets/main_dash.png)
+
+### 🎥 Camera Start
+![Start Camera](assets/start_cam.png)
+
+### 🛑 Camera Stop
+![Stop Camera](assets/stop_cam.png)
+
+### 🧠 Detection / Monitoring
+![Detection](assets/analytics.png)
+
+### 🥽 VR Mode
+![VR Mode](assets/vr_mode.png)
