@@ -12,10 +12,10 @@ Traditional surveillance systems require continuous human monitoring. This proje
 - Real-time alerts via SMS/Email
 
 ## 👨‍💻 Team
-Aryan Indalkar
-Kartik Choudhari
-Sonali Gaikwad
-Bhumika Alhat
+- Aryan Indalkar
+- Kartik Choudhari
+- Sonali Gaikwad
+- Bhumika Alhat
 
 ## 🧱 Technology Stack
 
